@@ -1,0 +1,6 @@
+Iterator pattern is used with collections to provide the interface to client to access the complex collecions.
+
+This pattern mainly provides three methods:
+next()
+hasNext()
+remove()
